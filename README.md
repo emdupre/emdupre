@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a PhD candidate in neuroscience at McGill University working in the [@neurodatascience](https://github.com/neurodatascience/) lab. My current research focuses on improving inferences we can draw from high-dimensional, naturalistic datasets through alignment. 
+
+I'm an open science enthusiast, particularly in developing tools and methods that make it easier to do open and reproducible work. I've contributed to several projects across the open neuroimaging ecosystem including [BIDS](http://bids.neuroimaging.io), [fMRIPrep](https://fmriprep.org), [nilearn](http://nilearn.github.io), and [tedana](https://tedana.readthedocs.org).
+
+I've also been involved in several organizations promoting open practices including [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/open-leadership-events/vault/open-leaders/) and the [OHBM Open Science SIG](https://ossig.netlify.app).
+
 <!--
 **emdupre/emdupre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

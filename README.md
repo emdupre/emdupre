@@ -4,7 +4,7 @@ I'm a postdoctoral researcher in [the SIMEXP lab](https://simexp.github.io/lab-w
 My current research focuses on applying functional alignment techniques to overcome distribution shifts in high-dimensional, naturalistic datasets.
 
 I'm an open science enthusiast, particularly in developing tools and methods that make it easier to do open and reproducible work.
-I've contributed to several projects across the open neuroimaging ecosystem, including currently serving as a core contributor to [nilearn](http://nilearn.github.io).
+I've contributed to several projects across the open neuroimaging ecosystem and currently serve as a core contributor to [nilearn](http://nilearn.github.io).
 
 <!--
 **emdupre/emdupre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

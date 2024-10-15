@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a postdoctoral researcher in [the SIMEXP lab](https://simexp.github.io/lab-website/) and affiliated with CRIUGM and Université de Montréal. 
+I'm a postdoctoral researcher in [the SIMEXP lab](https://simexp.github.io/lab-website/), affiliated with CRIUGM and Université de Montréal. 
 My current research focuses on applying functional alignment techniques to overcome distribution shifts in high-dimensional, naturalistic datasets.
 
 I'm an open science enthusiast, particularly in developing tools and methods that make it easier to do open and reproducible work.

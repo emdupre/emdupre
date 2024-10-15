@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a postdoctoral scholar at Stanford University working between the [Poldrack](https://poldracklab.stanford.edu/) and [Linderman](https://web.stanford.edu/~swl1/) labs. My current research focuses on improving inferences we can draw from high-dimensional, naturalistic datasets through alignment. 
+I'm a postdoctoral researcher at Université de Montréal working in [the SIMEXP lab](https://simexp.github.io/lab-website/).
+My current research focuses on applying functional alignment techniques to overcome distribution shifts in high-dimensional, naturalistic datasets.
 
-I'm an open science enthusiast, particularly in developing tools and methods that make it easier to do open and reproducible work. I've contributed to several projects across the open neuroimaging ecosystem including [fMRIPrep](https://fmriprep.org), [nilearn](http://nilearn.github.io), and [tedana](https://tedana.readthedocs.org).
+I'm an open science enthusiast, particularly in developing tools and methods that make it easier to do open and reproducible work.
+I've contributed to several projects across the open neuroimaging ecosystem, including currently serving as a core contributor to [nilearn](http://nilearn.github.io).
 
 <!--
 **emdupre/emdupre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
